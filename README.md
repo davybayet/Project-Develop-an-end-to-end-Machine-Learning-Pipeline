@@ -19,7 +19,7 @@ The prize was given "for the theoretical discovery of a mechanism that contribut
 **The first evidence of $h \to \tau^+\tau^-$ decays [was recently reported](https://cds.cern.ch/record/1632191), based on the full set of proton–proton collision data recorded by the ATLAS experiment at the LHC during $2011$-$2012$. Despite the consistency of the data with $h \to \tau^+\tau^-$ decays, it could not be ensured that the statistical power exceeds the $5\sigma$ threshold, which is the required standard for claims of discovery in high-energy physics community.**
 
 <figure>
-    <img src = "https://raw.githubusercontent.com/davybayet/Project-Develop-an-end-to-end-Machine-Learning-Pipeline
+    <img src = "https://github.com/davybayet/Project-Develop-an-end-to-end-Machine-Learning-Pipeline
 /blob/main/atlas_cern.png" alt = "Higgs into fermions: Evidence of the Higgs boson decaying to fermions" width = "600">
     <figcaption> Fig 1. Higgs into fermions: Evidence of the Higgs boson decaying to fermions (image credit: CERN) </figcaption>
 </figure>
