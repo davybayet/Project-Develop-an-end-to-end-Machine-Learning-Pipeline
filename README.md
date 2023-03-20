@@ -18,6 +18,12 @@ The prize was given "for the theoretical discovery of a mechanism that contribut
 
 **The first evidence of $h \to \tau^+\tau^-$ decays [was recently reported](https://cds.cern.ch/record/1632191), based on the full set of proton–proton collision data recorded by the ATLAS experiment at the LHC during $2011$-$2012$. Despite the consistency of the data with $h \to \tau^+\tau^-$ decays, it could not be ensured that the statistical power exceeds the $5\sigma$ threshold, which is the required standard for claims of discovery in high-energy physics community.**
 
+<figure>
+    <img src = "https://raw.githubusercontent.com/davybayet/Project-Develop-an-end-to-end-Machine-Learning-Pipeline
+/main/Image/atlas_cern.png" alt = "Higgs into fermions: Evidence of the Higgs boson decaying to fermions" width = "600">
+    <figcaption> Fig 1. Higgs into fermions: Evidence of the Higgs boson decaying to fermions (image credit: CERN) </figcaption>
+</figure>
+
 ## LHC at Work
 
 **Proton-proton collisions.** In particle physics, an event describes the outcome immediately following a fundamental interaction between subatomic particles. This interaction occurs within an extremely brief timeframe and is confined to a specific region in space. At the LHC, clusters of protons are accelerated in both directions along a circular path at extraordinarily high speeds. These clusters are directed to intersect within the ATLAS detector, resulting in hundreds of millions of proton-proton collisions per second. Sensors detect the events that ensue, generating a sparse vector with approximately one hundred thousand dimensions, which is somewhat analogous to images or speech signals in traditional machine learning applications. During the feature construction phase, the type, energy, and 3D direction of each particle are extracted from the raw data. Additionally, the variable-length list of four-tuples is converted into a fixed-length vector of features containing up to tens of real-valued variables.
