@@ -20,7 +20,7 @@ The prize was given "for the theoretical discovery of a mechanism that contribut
 
 <figure>
     <img src = "https://raw.githubusercontent.com/davybayet/Project-Develop-an-end-to-end-Machine-Learning-Pipeline
-/main/Image/atlas_cern.png" alt = "Higgs into fermions: Evidence of the Higgs boson decaying to fermions" width = "600">
+/main/atlas_cern.png" alt = "Higgs into fermions: Evidence of the Higgs boson decaying to fermions" width = "600">
     <figcaption> Fig 1. Higgs into fermions: Evidence of the Higgs boson decaying to fermions (image credit: CERN) </figcaption>
 </figure>
 
